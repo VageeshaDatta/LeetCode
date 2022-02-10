@@ -1,3 +1,5 @@
+// This logic is written using the concept of Kadane's Algorithm
+// Kadane's Algorithm is an iterative dynamic programming approach
 class Solution {
 public:
       int maxSubArray(vector<int>& nums) {
